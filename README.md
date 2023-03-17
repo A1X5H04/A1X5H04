@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning react.js
 - 🤔 I’m looking for help with anything 
 - 📫 How to reach me: https://telegram.me/a1x5h04
-- ⚡ Fun fact: I like to watch animated movies
+- ⚡ Fun fact: I like phonk
 
 <!--
 **A1X5H04/A1X5H04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
