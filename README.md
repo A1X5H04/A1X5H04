@@ -5,7 +5,7 @@ A passionate and experienced software developer with a strong understanding of c
 
 * 👋  Hi I am Alish.
 * 🖥️  See my portfolio at [A1X5H04.github.com](https://a1x5h04.github.io/)
-* 👨‍💻  I'm currently working on Nothing.
+* 👨‍💻  I'm currently working on Anime Streaming Web App.
 * ✉️  You can reach me at [alishbaig2004@gmail.com](mailto:alishbaig2004@gmail.com)
 * 🧠  I'm currently learning Flutter
 * 🤝  I'm open to collaborating on anything?
