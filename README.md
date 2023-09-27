@@ -3,13 +3,13 @@
 ## 👤 About Me
 
 ### Web Developer and UI Designer
-A passionate and experienced software developer with a strong understanding of coding stuff.
+A passionate and experienced software developer with a strong understanding of programming stuff.
 
 * 👋  Hi I am Alish.
 * 🖥️  See my portfolio at [A1X5H04.github.com](https://a1x5h04.github.io/)
-* 👨‍💻  I'm currently working on Anime Streaming Web App.
+* 👨‍💻  I'm currently working on contributing to Open Source projects.
 * ✉️  You can reach me at [alishbaig2004@gmail.com](mailto:alishbaig2004@gmail.com)
-* 🧠  I'm currently learning Flutter
+* 🧠  I'm currently learning Android Development
 * 🤝  I'm open to collaborating on anything?
 * ⚡ Fun fact: I like phonk
 
