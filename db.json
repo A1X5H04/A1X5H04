@@ -8,6 +8,52 @@
     "🤝 I'm open to collaborating on anything?",
     "⚡ Fun fact: I like phonk music"
   ],
+  "project_repos": [
+    {
+      "owner": "a1x5h04",
+      "repo": "portfolio",
+      "link": "https://github.com/a1x5h04/portfolio",
+      "description": "Personal Portfolio Website",
+      "image": "https://opengraph.githubassets.com/1/a1x5h04/portfolio",
+      "website": "https://a1x5h04.pages.dev",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 2,
+      "forks": 0
+    },
+    {
+      "owner": "a1x5h04",
+      "repo": "A1X5H04",
+      "link": "https://github.com/a1x5h04/A1X5H04",
+      "description": "Config files for my GitHub Profile",
+      "image": "https://opengraph.githubassets.com/1/a1x5h04/A1X5H04",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "a1x5h04",
+      "repo": "dictionary-app",
+      "link": "https://github.com/a1x5h04/dictionary-app",
+      "description": "A beautiful dictionary app made with React and Urban Dictionary API",
+      "image": "https://opengraph.githubassets.com/1/a1x5h04/dictionary-app",
+      "website": "https://a1x5h04-dictionary.netlify.app/",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "owner": "a1x5h04",
+      "repo": "quizzapp",
+      "link": "https://github.com/a1x5h04/quizzapp",
+      "image": "https://opengraph.githubassets.com/1/a1x5h04/quizzapp",
+      "website": "https://a1x5h04-quizzapp.netlify.app",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 0,
+      "forks": 0
+    }
+  ],
   "languages": [
     {
       "link": "https://www.javascript.com/",
