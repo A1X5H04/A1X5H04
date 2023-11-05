@@ -57,99 +57,68 @@
   "languages": [
     {
       "link": "https://www.javascript.com/",
-      "imgAltText": "Javascript",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
-      "skillName": "Javascript"
+      "name": "Javascript"
     },
     {
       "link": "https://www.typescriptlang.org/",
-      "imgAltText": "TypeScript",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
-      "skillName": "TypeScript"
+      "name": "TypeScript"
     },
     {
       "link": "https://developer.mozilla.org/en-US/docs/Web/CSS",
-      "imgAltText": "CSS 3",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
-      "skillName": "CSS3"
+      "name": "CSS3"
     },
     {
       "link": "https://tailwindcss.com/",
-      "imgAltText": "Tailwind CSS",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
-      "skillName": "Tailwind CSS"
-    },
-    {
-      "link": "https://getbootstrap.com/",
-      "imgAltText": "Bootstrap",
-      "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
-      "skillName": "Bootstrap"
+      "name": "Tailwind CSS"
     },
     {
       "link": "https://reactjs.org/",
-      "imgAltText": "React JS",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
-      "skillName": "React JS"
+      "name": "React JS"
     },
     {
       "link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170",
-      "imgAltText": "C",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg",
-      "skillName": "C"
-    },
-    {
-      "link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170",
-      "imgAltText": "C++",
-      "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
-      "skillName": "C++"
+      "name": "C"
     },
     {
       "link": "https://kotlinlang.org/",
-      "imgAltText": "Kotlin",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg",
-      "skillName": "Kotlin"
+      "name": "Kotlin"
     },
     {
       "link": "https://developer.mozilla.org/en-US/docs/Web/HTML",
-      "imgAltText": "HTML 5",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
-      "skillName": "HTML5"
+      "name": "HTML 5"
     },
     {
       "link": "https://nodejs.org/en/",
-      "imgAltText": "Node.js",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
-      "skillName": "Node.js"
-    },
-    {
-      "link": "https://www.mysql.com/",
-      "imgAltText": "MySQL",
-      "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
-      "skillName": "MySQL"
+      "name": "Node.js"
     },
     {
       "link": "https://firebase.google.com/",
-      "imgAltText": "Firebase",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
-      "skillName": "Firebase"
+      "name": "Firebase"
     },
     {
       "link": "https://www.figma.com/",
-      "imgAltText": "Figma",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
-      "skillName": "Figma"
+      "name": "Figma"
     },
     {
       "link": "https://git-scm.com/",
-      "imgAltText": "Git",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
-      "skillName": "Git"
+      "name": "Git"
     },
     {
       "link": "https://dart.dev",
-      "imgAltText": "Dart",
       "imgSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg",
-      "skillName": "Dart"
+      "name": "Dart"
     }
   ]
 }
