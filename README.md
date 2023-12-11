@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello I am Aliyan
+Hi there!  My name is **Alish**, and I'm a passionate software developer who loves contributing to open source projects. Whether it's fixing bugs, adding new features, or simply helping others, I find immense satisfaction in giving back to the community :smiley:.
+
+When I'm not coding, I enjoy spending my time watching anime. There's something about the imaginative worlds and compelling characters that I find truly captivating. I'm always on the lookout for new recommendations, so feel free to share your favorites with me!
+
+In my free time, I also enjoy helping my mother with chores around the house. It's a great way to show my appreciation for her and bond with her. I believe that family is important, and I cherish the time we spend together.
 
 
 ## 🌐 Socials:
