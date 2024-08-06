@@ -1,9 +1,28 @@
 # 💫 About Me:
-Hi there!  My name is **Alish**, and I'm a passionate software developer who loves contributing to open source projects. Whether it's fixing bugs, adding new features, or simply helping others, I find immense satisfaction in giving back to the community :smiley:.
 
-When I'm not coding, I enjoy spending my time watching anime. There's something about the imaginative worlds and compelling characters that I find truly captivating. I'm always on the lookout for new recommendations, so feel free to share your favorites with me!
+**Who am I?**
 
-In my free time, I also enjoy helping my mother with chores around the house. It's a great way to show my appreciation for her and bond with her. I believe that family is important, and I cherish the time we spend together.
+I'm Alish Baig, a **software developer** with a passion for open source projects. I love diving into code and tackling new challenges to make the world a bit easier.
+
+**What do I do?**
+
+When I’m not coding, you’ll find me playing games or binge-watching movies and anime. 🌟 I enjoy exploring the latest frameworks and technology, always eager to tinker with new tools and gadgets. 🔧
+
+**What are my hobbies?**
+
+Outside of tech, I enjoy helping my mom with chores around the house. It’s a great way to show appreciation and spend quality time with my family. 🏡
+
+**What drives me?**
+
+I’m passionate about building projects that solve real-world problems and make life a little easier. I’m always on the lookout for new challenges and opportunities to learn and grow.
+
+**How can we work together?**
+
+I’m always excited about collaborating on new projects and sharing ideas. If you’re interested in teaming up, feel free to reach out to me at [alishbaig2004@gmail.com](mailto:alishbaig2004@gmail.com).
+
+**What’s next for me?**
+
+There’s always more to learn and discover in the tech world, and I’m eager to keep exploring new possibilities and expanding my skills. Let’s make something awesome together! 🚀
 
 
 ## 🌐 Socials:
